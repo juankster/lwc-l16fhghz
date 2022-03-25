@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/juankster.lwc-l16fhghz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Lo21b1CKo8c7UB9ffhgN --open"
+  }
+}
